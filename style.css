@@ -1,0 +1,25 @@
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.box:nth-child(1) {
+background-color: aqua;
+position: absolute;
+left: 0;
+top: 0;
+}
+
+.box:nth-child(2) {
+background-color: blue;
+position: absolute;
+left: 30px;
+top: 30px;
+}
+
+.box:nth-child(3) {
+background-color: coral;
+position: absolute;
+left: 60px;
+top: 60px;
+}
