@@ -10,14 +10,14 @@ left: 0;
 top: 0;
 }
 
-.box:nth-child(2) {
+.box:nth-child(3) {
 background-color: blue;
 position: absolute;
 left: 30px;
 top: 30px;
 }
 
-.box:nth-child(3) {
+.box:nth-child(2) {
 background-color: coral;
 position: absolute;
 left: 60px;
